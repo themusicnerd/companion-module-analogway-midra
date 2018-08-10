@@ -1,1 +1,1 @@
-companion-module-midra
+companion-module-eikos500
