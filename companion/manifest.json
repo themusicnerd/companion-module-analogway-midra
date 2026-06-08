@@ -25,6 +25,9 @@
 	"manufacturer": "Analog Way",
 	"products": [
 		"Midra",
+		"Eikos",
+		"EKS-500",
+		"Eikos 500",
 		"Eikos2",
 		"Saphyr",
 		"Pulse2",
@@ -37,6 +40,9 @@
 	],
 	"keywords": [
 		"Protocol",
-		"Image Processing"
+		"Image Processing",
+		"SmartMatriX2",
+		"Eikos",
+		"EKS-500"
 	]
 }
